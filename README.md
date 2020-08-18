@@ -38,7 +38,6 @@
 
 Пиковая дама - Пушкин - 1833
 
-https://yaroslav-zinchenko.000webhostapp.com/qsoft-intern-test/16/16.php
 
 
 17.
@@ -53,5 +52,3 @@ https://yaroslav-zinchenko.000webhostapp.com/qsoft-intern-test/16/16.php
 * Если число делится без остатка на 5 – прибавьте это число к переменной $sum
 * Если число делится и на 5 и на 3 – перемешайте массив $items
 * После цикла Выведите массив $items любым удобным способом
-
-https://yaroslav-zinchenko.000webhostapp.com/qsoft-intern-test/17/17.php
